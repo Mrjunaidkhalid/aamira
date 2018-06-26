@@ -13,6 +13,10 @@ body {
   text-align:center;
   color:#fff;
 }
+.center ul {
+    margin: 0;
+    padding: 0;
+}
 .container{
   margin: 0 auto;
   width: 320px;
